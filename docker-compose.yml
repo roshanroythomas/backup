@@ -1,5 +1,3 @@
-#Change to test message
-
 version: '3.8'
 
 services:
